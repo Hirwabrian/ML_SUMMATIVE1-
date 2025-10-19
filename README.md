@@ -4,13 +4,13 @@ This project uses machine learning to empirically map Marx’s concept of the �
 
 ## Files
 
-- **`cpsaat18b.xlsx`**: Official U.S. Bureau of Labor Statistics (BLS) dataset — *Table 18b: Employed persons by detailed industry and age* (2024), sourced from the Current Population Survey (CPS).
+- **`cpsaat18b.xlsx`**: Official U.S. Bureau of Labor Statistics (BLS) dataset *Table 18b: Employed persons by detailed industry and age* (2024), sourced from the Current Population Survey (CPS).
 - **`Summative_Assignment_Model_Training_and_Evaluation (1).ipynb`**: Jupyter notebook containing the full pipeline — data loading, feature engineering, model training (Linear Regression, Random Forest, Sequential & Functional API Neural Networks), evaluation, and visualizations.
 - **`HIRWA ARMSTRONG BRIAN SUMMATIVE 1_ MODEL TRAINING AND EVALUATION.pdf`**: Final report detailing the theoretical framework, methodology, results, and interpretation through a Marxist lens.
 
 ## Key Insights
 
-- **Median age** is the strongest predictor of youth labor share—validating age structure as a marker of class position.
+- **Median age** is the strongest predictor of youth labor share validating age structure as a marker of class position.
 - **Deep learning (Sequential NN)** achieved **R² = 0.864**, outperforming traditional models.
 - Models struggled most in **high-precarity sectors** (e.g., restaurants, food services), revealing the limits of static demographics in capturing labor market volatility.
 
